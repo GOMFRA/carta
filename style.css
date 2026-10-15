@@ -180,7 +180,7 @@ body {
   margin: 5em auto;
   position: fixed;
   top: -15px;
-  left: 25%;
+  left: 35%;
   display: flex;
   visibility: hidden;
 }
@@ -228,8 +228,8 @@ body {
     width: var(--carta-ancho);
     height: var(--carta-alto);
 
-    top: calc(50% + var(--carta-posicion-y));
-    left: calc(50% + var(--carta-posicion-x));
+    top: calc(40% + var(--carta-posicion-y));
+    left: calc(40% + var(--carta-posicion-x));
 
     margin: 0;
 
