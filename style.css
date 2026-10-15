@@ -10,8 +10,8 @@
   --carta-alto: 500px;
 
   /* Posicion de la carta en celular */
-  --carta-posicion-x: 0px;
-  --carta-posicion-y: 0px;
+  --carta-posicion-x: -50px;
+  --carta-posicion-y: -50px;
 
   /* Escala para celular */
   --carta-escala: 0.40;
